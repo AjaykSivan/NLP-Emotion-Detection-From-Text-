@@ -28,9 +28,9 @@ Model Evaluation:
     Evaluated models using accuracy, precision, recall, F1-score, and confusion matrices. Visualization
     
 Technologies Used:
- programing language-Python
- Libraries-Pandas,NumPy(Data manipulation and analysis)
- Visualization-Matplotlib, Seaborn
+ programing language-Python,
+ Libraries-Pandas,NumPy(Data manipulation and analysis),
+ Visualization-Matplotlib, Seaborn,
  Scikit-learn: Machine learning and evaluation metrics.
 
  Conclusion:
